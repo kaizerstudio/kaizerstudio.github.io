@@ -1,4 +1,8 @@
-h1:{
+h1 {
     color: green;
     font: 1em arial;
+}
+p {
+    color: blue;
+    font: 100 arial;
 }
