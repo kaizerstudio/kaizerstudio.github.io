@@ -1,9 +1,9 @@
 h1 {
     color: green;
-    font: 1em arial;
+    font: 1em terminal;
     font-size: medium;
 }
 p {
     color: blue;
-    font: 100 arial;
+    font: 100 terminal;
 }
